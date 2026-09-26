@@ -7,7 +7,7 @@ raw data --> (비지도 학습 e.g. isolation forest) --> 라벨링 된 data ---
 
 근거 : welding data set.xlsx 의 result tap을 보면, 날짜 별로 defect type과 갯수 정보를 줬기 때문에 이를 버리면 안된다.
 
-#### B방식 : raw data에 대한 임의 라벨링은 정확도 이슈가 있.
+#### B방식 : raw data에 대한 임의 라벨링은 정확도 이슈가 있다.
 
 raw data --> (비지도 학습 e.g. isolaton forest) --> learning 
 
